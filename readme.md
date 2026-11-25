@@ -146,6 +146,7 @@ Navigate into backend:
 ```bash
 cd backend
 ```
+Deployed link : https://xebia-portal-lms.vercel.app/
 
 ### Configure Password
 
