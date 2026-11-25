@@ -6,6 +6,8 @@
 
 Xebia LMS Portal is a scalable enterprise-grade Learning Management System built using a modern full-stack architecture combining a React frontend with a Java Spring Boot backend.
 
+Deployed link : https://xebia-portal-lms.vercel.app/
+
 The platform is designed to support:
 
 * Course Management
@@ -146,7 +148,6 @@ Navigate into backend:
 ```bash
 cd backend
 ```
-Deployed link : https://xebia-portal-lms.vercel.app/
 
 ### Configure Password
 
